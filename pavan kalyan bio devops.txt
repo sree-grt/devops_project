@@ -1,0 +1,29 @@
+ DevOps Engineer at Grasko Solutions Pvt Ltd
+
+Professional Overview:
+pavan kalyan  is a skilled and dedicated DevOps Engineer with a wealth of experience in the dynamic IT industry. Currently serving as a DevOps Engineer at Grasko Solutions Pvt Ltd, they play a crucial role in ensuring seamless operations through a combination of expertise in AWS, Linux administration, and Windows administration.
+
+ Professional Experience:
+With 1.2 years of hands-on experience in the Health Care Project, pavan kalyan has demonstrated exceptional proficiency in managing Linux and Windows servers, contributing significantly to the success of critical projects.
+
+Technical Proficiency:
+pavan kalyan possesses a comprehensive skill set that includes expertise in tools and technologies such as Git, Putty, Nagios, Nginx, Apache Tomcat, Jira, Maven, SonarQube, Nexus, Docker, Kubernetes, Jenkins, Ansible, AWS, Linux Administration, Windows Administration, MySQL, MariaDB, MongoDB, and Redis. This extensive knowledge base reflects their commitment to staying at the forefront of industry trends.
+
+ Key Competencies:
+
+DevOps Practices: pavan kalyan is well-versed in implementing DevOps best practices, utilizing tools like Jenkins for continuous integration and Ansible for automation, ensuring efficient and collaborative development processes.
+
+Cloud Expertise: With a focus on AWS, pavan kalyan leverages cloud services to optimize infrastructure, enhance scalability, and improve overall system performance.
+
+Containerization and Orchestration: Proficient in Docker and Kubernetes, pavan kalyan excels in containerization and orchestration, enabling streamlined deployment and management of applications.
+
+Monitoring and Collaboration: pavan kalyan ensures system health and performance using tools like Nagios, fostering a proactive approach to issue resolution. Collaboration tools like Jira enhance project management and team coordination.
+
+Educational Background:
+pavan kalyan a testament to their commitment to continuous learning and professional development.
+
+ Passion for Innovation:
+Driven by a passion for innovation and a commitment to excellence, pavan kalyan remains dedicated to exploring emerging technologies and implementing cutting-edge solutions to address complex challenges in the IT landscape.
+
+Connect with pavan kalyan to discover how their technical expertise and commitment to excellence can contribute to the success of your projects and initiatives.
+
